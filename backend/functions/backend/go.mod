@@ -1,6 +1,6 @@
 module github.com/dimasanwaraziz/bebas-parkir
 
-go 1.25.1
+go 1.23.1
 
 require (
 	github.com/appwrite/sdk-for-go v0.13.1

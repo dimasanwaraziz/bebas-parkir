@@ -1,0 +1,13 @@
+Native logs detected. Use context.Log() or context.Error() for better experience.Hello, Logs!
+Native logs detected. Use context.Log() or context.Error() for better experience.Hello, Logs!
+Native logs detected. Use context.Log() or context.Error() for better experience.Hello, Logs!
+Native logs detected. Use context.Log() or context.Error() for better experience.Hello, Logs!
+Native logs detected. Use context.Log() or context.Error() for better experience.Hello, Logs!
+Native logs detected. Use context.Log() or context.Error() for better experience.Hello, Logs!
+Native logs detected. Use context.Log() or context.Error() for better experience.Hello, Logs!
+Native logs detected. Use context.Log() or context.Error() for better experience.Hello, Logs!
+Native logs detected. Use context.Log() or context.Error() for better experience.Hello, Logs!
+Native logs detected. Use context.Log() or context.Error() for better experience.Hello, Logs!
+Native logs detected. Use context.Log() or context.Error() for better experience.Hello, Logs!
+Native logs detected. Use context.Log() or context.Error() for better experience.Hello, Logs!
+Native logs detected. Use context.Log() or context.Error() for better experience.Hello, Logs!
