@@ -4,7 +4,9 @@
     "functions": [
         {
             "$id": "68f7c7b7001d9a711a3b",
-            "execute": [],
+            "execute": [
+                "any"
+            ],
             "name": "backend",
             "enabled": true,
             "logging": true,
